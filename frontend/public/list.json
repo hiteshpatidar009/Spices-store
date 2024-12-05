@@ -1,0 +1,43 @@
+[
+    {
+       "id":1,
+       "name":"Haldi",
+       "title": " Turmeric , also known as haldi, has many potential health benefits and has been used for thousands of years in traditional medicine ",
+       "price":400,
+       "category":"Spices",
+        "image": " https://img.freepik.com/premium-photo/curcuma-powder_1236033-50608.jpg?w=1060"  
+           },
+      
+   
+       {
+        "id":2,
+        "name":"Chilli",
+         "title":"Chili powder is one of the prime ingredients in cooking a cuisine – whether Western or Continental.",
+         "price":450,
+         "category":"Spices",
+         "image": "https://img.freepik.com/premium-photo/pile-spices-with-herbs-spices-top-them_1320904-2589.jpg?w=1060"
+       },
+
+       {
+        "id":3,
+        "name":"Coriander Powder",
+         "title": "Coriander, popularly known as Dhania is an aromatic spice that is extensively found and stocked up in almost all kitchen cabinets throughout the globe. "  ,
+         "price":225,
+         "category":"Spices",
+         "image": " https://img.freepik.com/premium-photo/coriander-powder-seeds-bowl-white-background_1276612-17697.jpg?w=1060"
+        
+       },
+       {
+        "id":4,
+        "name":"Garam Masala",
+         "title":" Garam Masala is a premium blend of 17 spices, crafted to add a mild yet flavorful kick to your dishes. ",
+         "price":780,
+         "category":"Spices",
+         "image": " https://img.freepik.com/premium-photo/cinnamon-sticks-powder-black-background_1154968-88209.jpg?w=1060"
+       
+       }
+
+      
+
+    ]
+    
